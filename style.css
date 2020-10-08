@@ -1,0 +1,62 @@
+#container, #line2Box2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#line1Box1 {
+    width: 80%;
+    height: 50px;
+    background-color: #2ecc71;
+}
+/* line1Box2 = ligne bleu */
+#line1Box2 {
+    width: 20%;
+    height: 50px;
+    background-color: #2980b9;
+}
+/* line2Box1 = ligne rouge */
+#line2Box1 {
+    width: 34%;
+    height: 100px;
+    background-color: #e74c3c;
+}
+#line2Box2 {
+    width: 66%;
+    }
+
+/* line2Box2-1 = ligne orange */
+#line2Box2-1 {
+    width: 50%;
+    height: 50px;
+    background-color: #e67e22;
+}
+/* line2Box2-2 = ligne grise */
+#line2Box2-2 {
+    width: 50%;
+    height: 50px;
+    background-color: #95a5a6;
+}
+/* line2Box2-3 = ligne jaune */
+#line2Box2-3 {
+    width: 33%;
+    height: 50px;
+    background-color: #f39c12;
+}
+/* line2Box2-4 = ligne turquoise */
+#line2Box2-4 {
+    width: 33%;
+    height: 50px;
+    background-color: #16a085;
+}
+/* line2Box2-5 = ligne orange foncé */
+#line2Box2-5 {
+    width: 34%;
+    height: 50px;
+    background-color: #d35400;
+}
+/* line3Box1  = ligne noir */
+#line3Box1 {
+    width: 100%;
+    height: 150px;
+    background-color: #2c3e50;
+} 
